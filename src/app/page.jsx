@@ -1,4 +1,5 @@
 import Article from "@/components/Article";
+import Article2 from "@/components/Article2";
 import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar";
 import Section from "@/components/Section";
@@ -12,6 +13,7 @@ export default function Home() {
       <Section />
       <Section2 />
       <Article />
+      <Article2 />
     </div>
   );
 }
